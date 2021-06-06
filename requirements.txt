@@ -1,5 +1,9 @@
 streamlit==0.80.0
-sckit-learn==0.80.0
+scikit-learn==0.24.2
+scikit-learn==2.1.0
+scikit-learn==1.0.1
+scikit-learn==1.20.2
+scikit-learn==1.6.3
 matplotlib==1.15.0
 
 
