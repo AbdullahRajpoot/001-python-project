@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run abdp3.py
+web: sh setup.sh && streamlit run pyt.py
