@@ -1,3 +1,5 @@
 streamlit==0.80.0
+sckit-learn==0.80.0
+matplotlip==0.80.0
 
 
