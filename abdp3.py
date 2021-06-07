@@ -12,7 +12,8 @@ from sklearn.ensemble import RandomForestClassifier
 
 from sklearn.metrics import accuracy_score
 
-st.title('Streamlit Example')
+st.title('Python project 046')
+st.title('Disease Data set')
 
 st.write("""
 # Explore different classifier and datasets
